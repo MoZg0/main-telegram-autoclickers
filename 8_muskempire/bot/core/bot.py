@@ -52,7 +52,7 @@ class CryptoBot:
 				platform='android',
 				from_bot_menu=False,
 				url='https://game.muskempire.io/',
-				start_param='hero6046075760'
+				start_param='hero248328144'
 			))
 			auth_url = web_view.url
 			tg_web_data = unquote(

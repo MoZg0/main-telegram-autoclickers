@@ -3,7 +3,7 @@ API_HASH = 'adf124h2j342x4u232sn'
 
 ACC_DELAY = [60, 180] # delay between connections to accounts in seconds
 
-USE_PROXY = False
+USE_PROXY = True
 PROXY_TYPE = "socks5" # http/socks5
 
 USE_TG_BOT = False

@@ -16,7 +16,7 @@ USE_TG_BOT = global_config.USE_TG_BOT
 BOT_TOKEN = global_config.DOGSHOUSE_BOT_TOKEN
 CHAT_ID = global_config.CHAT_ID
 
-REF_LINK = 'https://t.me/dogshouse_bot/join?startapp=ze_ke9DXRN-MaOuNvC3ZSw'
+REF_LINK = 'https://t.me/dogshouse_bot/join?startapp=yg04vgn5RK6EVBp6GPG_kg'
 
 DELAYS = {
     'ACCOUNT': global_config.ACC_DELAY,
