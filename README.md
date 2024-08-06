@@ -6,9 +6,9 @@
 
 | Status | Bots                                            |
 |:------:|-------------------------------------------------|
-|   ✅   | **Blum, 1Win Token, CryptoRank, YesCoin, TapSwap, DotCoin**       |
-|   ✅   | **PocketFi, MuskEmpire, HamsterKombat, DOGS**       |
-|   ⌛   | **OKX Racer**                        |
+|   ✅   | **Blum, CryptoRank, YesCoin, TapSwap, DotCoin**       |
+|   ✅   | **PocketFi, MuskEmpire, HamsterKombat, DOGS, OKX Racer**       |
+|   ⌛   | **Lost Dogs**                        |
 
 
 ## Requirements
@@ -17,7 +17,7 @@
 
 1. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   python3.11 -m pip install -r requirements.txt
    ```
 
 2. Get your API_ID and API_HASH:
